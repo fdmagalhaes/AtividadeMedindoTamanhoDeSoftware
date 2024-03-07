@@ -1,0 +1,2 @@
+Este repositório contém uma atividade ministrada em laboratório, que tem como objetivo mensurar a quantidade de linhas de código de um sistema de software. Essa medição permite determinar o tamanho do software, fornecendo informações essenciais para estabelecer o valor a ser cobrado pelo mesmo
+Ao contar as linhas de código de um sistema de software específico, os participantes podem entender melhor a estrutura e o escopo do projeto, além de ganhar insights sobre sua complexidad
